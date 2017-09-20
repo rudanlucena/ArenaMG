@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="pt-br"> 
 <head>
+
     <title>ARENA M1L G4AU</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="O ARENA M1L G4AU É UM SITE ESPORTIVO QUE TEM COMO OBJETIVO DIVULGAR OS PRINCIPAIS CAMPEONATOS/TORNEIOS LOCAIS. NA PAGINA INICIAL É POSSIVEL VISUALIZAR TODOS OS CAMPEONATOS/TORNEIOS QUE SERÃO REALIZADOS, O MESMO SUPORTA TODOS OS FORMATOS DE CAMPEONATO. ATRAVÉZ DE NOSSA PAGINA VOCÊ FICA POR DENTRO DAS PRINCIPAIS COMPETIÇÕES QUE ACONTECEM NA CIDADA.">
@@ -31,17 +32,16 @@
       .language-select { text-align: center; position: relative; z-index: 9999; top: 0px; margin-bottom: 60px; }
     </style>
 
-    <!--script para dados estatisticos-->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-90935951-1', 'auto');
-      ga('send', 'pageview');
-    </script> 
-      
 
+      ga('create', 'UA-106774994-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
 </head>
 
 <body>
